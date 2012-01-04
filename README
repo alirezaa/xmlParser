@@ -1,0 +1,3 @@
+Readme for xmlPasrser
+---------------------
+This program reads a nvd2002.xml file and them extracts some values and then it will load it into DB. This is good for research projects.
